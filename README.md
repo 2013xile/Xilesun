@@ -3,7 +3,7 @@
 **I am YANG QIA** 🇨🇳 
 
 - 👨‍💻 I'm passionate about Coding.
-- 🧱 Backend Developer @Tencent.
+- 🧱 Full Stack Engineer @nocobase. Ex-Tencent Engineer.
 - 🌱 Currently learning to be an Open Source Software Developer.
 - 🔭 Working on my side project [EASYCRUD](https://easycrud.org)
 - 📝 Maintainer of [remotefrom.cn](https://remotefrom.cn)
